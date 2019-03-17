@@ -7,3 +7,4 @@ kemon.sys 是 "双枪木马" 传播环节中的一个恶意驱动文件。其中
 1. 用 Python 实现解密算法，批量解密 ——> decrypt_drv_str.py；
 2. 基于 [Flare-Emu](https://github.com/fireeye/flare-emu) 来用指令模拟的方式批量解密字符串 --> decrypt_drv_str_by_falre-emu.py。
 
+详细分析： [两种姿势批量解密恶意驱动中的上百条字串](https://mp.weixin.qq.com/s/w1H6iqldtHKjuM5QTU5cPQ)
